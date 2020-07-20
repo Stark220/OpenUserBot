@@ -20,7 +20,7 @@ UNAPPROVED_MSG = (
     HeY! This is an automated message.\n\n
     I haven't approved you to PM yet.
     Please chat in group for help @StarkGroups.\n\n
-    Until i approved to PM don't spam here!)
+    Until i approved to PM, don't spam here!)
 # =================================================================
 
 
